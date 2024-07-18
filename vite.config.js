@@ -2,5 +2,5 @@ import { defineConfig } from "vite";
 
 
 export default defineConfig({  
-    base : '/Black-jack-copia-/',
+    base : '/Balck-jack-by-fher/',
 });
